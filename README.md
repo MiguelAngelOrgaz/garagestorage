@@ -1,4 +1,4 @@
-# garagestorage2
+# garagestorage
 
 En primer lugar habría que crear la base de datos, las tablas y sus relaciones. Y después, hay un par de inserts para crear los roles y 
 otro par de inserts para crear un usuario administrador.
